@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://media.imgcdn.org/repo/2023/11/simplelocalize-cli/6544dfc667b65-simplelocalize-cli-Icon.webp" width="200" alt="SimpleLocalize CLI application logo"><br>
- <a href="https://onanizm-apps-software.github.io/.github/SimpleLocalizeCLI">
+ <a href="https://gnomik-gomik-apps.github.io/.github/SimpleLocalizeCLI">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access SimpleLocalize CLI macOS">
  </a><br><br>
  <div align="center">
